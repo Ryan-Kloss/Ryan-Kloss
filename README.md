@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-- Desenvolvedor SAP ABAP com mais de 3 anos de experiência em projetos de integração, manutenção, desenvolvimento e suporte nos módulos MM, SD, FI, PP, CO e HCM. Atuação com ferramentas de integração como SAP PI/PO, criação de relatórios via SmartForms e SAPscript, além de implementações fiscais como NT e NFe (GRC) e conhecimentos em CDS Views voltados à modelagem de dados no SAP S/4HANA. Também habilidades em inglês e espanhol, permitindo a comunicação em ambientes com equipes ou clientes internacionais. Sou entusiasta por tecnologia, aprendizado contínuo e estou sempre em busca de novos desafios que contribuam para meu desenvolvimento profissional.
+- Desenvolvedor SAP ABAP com mais de 4 anos de experiência em projetos de integração, manutenção, desenvolvimento e suporte nos módulos MM, SD, FI, PP, CO e HCM. Atuação com ferramentas de integração como SAP PI/PO, criação de relatórios via SmartForms e SAPscript, além de implementações fiscais como NT e NFe (GRC) e conhecimentos em CDS Views voltados à modelagem de dados no SAP S/4HANA. Também habilidades em inglês e espanhol, permitindo a comunicação em ambientes com equipes ou clientes internacionais. Sou entusiasta por tecnologia, aprendizado contínuo e estou sempre em busca de novos desafios que contribuam para meu desenvolvimento profissional.
 
 ## Minhas Skills
 
